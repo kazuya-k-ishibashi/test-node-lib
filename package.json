@@ -7,10 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "tsc"
   },
-  "repository": "git://github.com/kazuya-k-ishibashi/test-node-lib.git",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/kazuya-k-ishibashi"
+    "registry": "https://npm.pkg.github.com/"
   },
+  "repository": "git://github.com/kazuya-k-ishibashi/test-node-lib.git",
   "keywords": [],
   "author": "kazuya-k-ishibashi <kazuya.ishibashi.wn@gmail.com>",
   "license": "UNLICENSED",
